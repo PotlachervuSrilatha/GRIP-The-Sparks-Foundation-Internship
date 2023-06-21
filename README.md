@@ -8,6 +8,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------
 ## Task1
 ### Prediction using Supervised ML
+
 ● Predict the percentage of an student based on the no. of study hours.
 
 ● What will be predicted score if a student studies for 9.25 hrs/ day?
@@ -18,12 +19,14 @@
 _____________________________________________________________________________________________________________________________________
 ## Task2
 ### Prediction using Unsupervised ML
+
 ● From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.
 
 ● Dataset : https://bit.ly/3kXTdox
 ______________________________________________________________________________________________________________________________________
 ## Task 3
 ### Exploratory Data Analysis
+
 ● Perform ‘Exploratory Data Analysis’ on dataset ‘SampleSuperstore’
 
 ● As a business manager, try to find out the weak areas where you can work to make more profit.
@@ -34,6 +37,7 @@ ________________________________________________________________________________
 ________________________________________________________________________________________________________________________________________
 ## Task 4
 ### Exploratory Data Analysis-Terrorism
+
 ● Perform ‘Exploratory Data Analysis’ on dataset ‘Global Terrorism’
 
 ● As a security/defense analyst, try to find out the hot zone of terrorism.
@@ -44,6 +48,7 @@ ________________________________________________________________________________
 _____________________________________________________________________________________________________________________________________
 ## Task 5
 ### Exploratory Data Analysis - Sports
+
 ● Perform ‘Exploratory Data Analysis’ on dataset ‘Indian Premier League’
 
 ● As a sports analysts, find out the most successful teams, players and factors contributing win or loss of a team.
@@ -54,6 +59,7 @@ ________________________________________________________________________________
 ______________________________________________________________________________________________________________________________________
 ## Task 6
 ### Prediction using Decision Tree Algorithm
+
 ● Create the Decision Tree classifier and visualize it graphically.
 
 ● The purpose is if we feed any new data to this classifier, it would be able to predict the right class accordingly.
@@ -62,6 +68,7 @@ ________________________________________________________________________________
 _______________________________________________________________________________________________________________________________________
 ## Task 7
 ### Stock Market Prediction using Numerical and Textual Analysis
+
 ● Objective: Create a hybrid model for stock price/performance prediction using numerical analysis of historical stock prices, and sentimental analysis of news headlines
 
 ● Stock to analyze and predict - SENSEX (S&P BSE SENSEX)
@@ -72,6 +79,7 @@ ________________________________________________________________________________
 ______________________________________________________________________________________________________________________________________
 ## Task 8
 ### Timeline Analysis : Covid-19
+
 ● Create a storyboard showing spread of Covid-19 cases in your country or any region (Asia, Europe, BRICS etc) using Tableau, Power BI or SAP
 
 ● Use animation, timeline and annotations to create attractive and interactive dashboards and story
